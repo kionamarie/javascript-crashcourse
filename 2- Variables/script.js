@@ -53,6 +53,6 @@ const date = new Date();
 console.log(date);
 
 // Statically Typed
-int num = 5;
+// int num = 5;
 // Dynamically Typed
 let num = 5;
